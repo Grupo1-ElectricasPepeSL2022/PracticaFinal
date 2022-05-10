@@ -8,4 +8,4 @@ Trello
 ### Documentación y elaboración de entregables:
 Google Drive
 ### Plugins:
-Elementor
+Akismet Anti-Spam, Clever Fox, Elementor, Essential Addons For Elementor, Matomo Analytics
